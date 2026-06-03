@@ -68,7 +68,7 @@ ATT（App Tracking Transparency）フレームワークの許可は不要です�
 
 プライバシーに関するご質問は、下記よりお問い合わせください。
 
-- GitHub Issues: https://github.com/emondesu/qrCodeChecker/issues
+- GitHub Issues: https://github.com/emondesu/qrcodechecker-support/issues
 
 ---
 
@@ -103,4 +103,4 @@ We do not share any data with third parties, including advertisers or analytics 
 
 ## Contact
 
-For privacy-related questions: https://github.com/emondesu/qrCodeChecker/issues
+For privacy-related questions: https://github.com/emondesu/qrcodechecker-support/issues
